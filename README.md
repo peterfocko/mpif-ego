@@ -4,7 +4,7 @@ Hello.
 
 ## Run
 
-    docker run -d --rm --name ego -p 5000:5000 ego
+    docker run -d --rm --name ego -p 5000:5000 pfocko/ego
 
 ## Gay
 
